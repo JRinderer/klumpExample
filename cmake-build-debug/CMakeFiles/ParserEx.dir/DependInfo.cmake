@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jrinder/CLionProjects/ParserEx (copy)/assembler.cpp" "/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/CMakeFiles/ParserEx.dir/assembler.cpp.o"
-  "/home/jrinder/CLionProjects/ParserEx (copy)/error.cpp" "/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/CMakeFiles/ParserEx.dir/error.cpp.o"
-  "/home/jrinder/CLionProjects/ParserEx (copy)/main.cpp" "/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/CMakeFiles/ParserEx.dir/main.cpp.o"
-  "/home/jrinder/CLionProjects/ParserEx (copy)/scanner.cpp" "/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/CMakeFiles/ParserEx.dir/scanner.cpp.o"
-  "/home/jrinder/CLionProjects/ParserEx (copy)/tables.cpp" "/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/CMakeFiles/ParserEx.dir/tables.cpp.o"
+  "/home/jrinder/CLionProjects/klumpExample/assembler.cpp" "/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/CMakeFiles/ParserEx.dir/assembler.cpp.o"
+  "/home/jrinder/CLionProjects/klumpExample/error.cpp" "/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/CMakeFiles/ParserEx.dir/error.cpp.o"
+  "/home/jrinder/CLionProjects/klumpExample/main.cpp" "/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/CMakeFiles/ParserEx.dir/main.cpp.o"
+  "/home/jrinder/CLionProjects/klumpExample/scanner.cpp" "/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/CMakeFiles/ParserEx.dir/scanner.cpp.o"
+  "/home/jrinder/CLionProjects/klumpExample/tables.cpp" "/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/CMakeFiles/ParserEx.dir/tables.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

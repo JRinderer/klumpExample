@@ -1,116 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_project_file>
-	<FileVersion major="1" minor="6"/>
-	<Project>
-		<Option title="ParserEx"/>
-		<Option makefile_is_custom="1"/>
-		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
-		<Build>
-			<Target title="all">
-				<Option working_dir="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ParserEx">
-				<Option output="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/ParserEx" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/../../../../include/c++/7.3.0"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/../../../../include/c++/7.3.0/x86_64-pc-linux-gnu"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/../../../../include/c++/7.3.0/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include-fixed"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 ParserEx"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ParserEx/fast">
-				<Option output="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug/ParserEx" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/jrinder/CLionProjects/ParserEx (copy)/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/../../../../include/c++/7.3.0"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/../../../../include/c++/7.3.0/x86_64-pc-linux-gnu"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/../../../../include/c++/7.3.0/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.3.0/include-fixed"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 ParserEx/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/jrinder/CLionProjects/ParserEx\ (copy)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-		</Build>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/assembler.cpp">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/error.cpp">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/error.h">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/main.cpp">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/scanner.cpp">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/tables.cpp">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/tables.h">
-			<Option target="ParserEx"/>
-		</Unit>
-		<Unit filename="/home/jrinder/CLionProjects/ParserEx (copy)/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\"/>
-		</Unit>
-	</Project>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="ParserEx" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ParserEx">
+         <Option output="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/ParserEx" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 ParserEx" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ParserEx/fast">
+         <Option output="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/ParserEx" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jrinder/CLionProjects/klumpExample/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 ParserEx/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jrinder/CLionProjects/klumpExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/assembler.cpp">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/assembler.h">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/error.cpp">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/error.h">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/main.cpp">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/scanner.cpp">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/scanner.h">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/tables.cpp">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/tables.h">
+         <Option target="ParserEx"/>
+      </Unit>
+      <Unit filename="/home/jrinder/CLionProjects/klumpExample/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
 </CodeBlocks_project_file>

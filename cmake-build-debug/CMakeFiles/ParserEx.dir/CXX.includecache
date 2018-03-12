@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/jrinder/CLionProjects/ParserEx (copy)/assembler.cpp
+/home/jrinder/CLionProjects/klumpExample/assembler.cpp
 iostream
 -
 iomanip
 -
 assembler.h
-/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h
+/home/jrinder/CLionProjects/klumpExample/assembler.h
 
-/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h
+/home/jrinder/CLionProjects/klumpExample/assembler.h
 string
 -
 tables.h
-/home/jrinder/CLionProjects/ParserEx (copy)/tables.h
+/home/jrinder/CLionProjects/klumpExample/tables.h
 
-/home/jrinder/CLionProjects/ParserEx (copy)/error.cpp
+/home/jrinder/CLionProjects/klumpExample/error.cpp
 iostream
 -
 cstdlib
@@ -32,13 +32,13 @@ utility
 string
 -
 error.h
-/home/jrinder/CLionProjects/ParserEx (copy)/error.h
+/home/jrinder/CLionProjects/klumpExample/error.h
 
-/home/jrinder/CLionProjects/ParserEx (copy)/error.h
+/home/jrinder/CLionProjects/klumpExample/error.h
 string
 -
 
-/home/jrinder/CLionProjects/ParserEx (copy)/main.cpp
+/home/jrinder/CLionProjects/klumpExample/main.cpp
 iostream
 -
 cstdlib
@@ -48,13 +48,13 @@ string
 set
 -
 scanner.h
-/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h
+/home/jrinder/CLionProjects/klumpExample/scanner.h
 error.h
-/home/jrinder/CLionProjects/ParserEx (copy)/error.h
+/home/jrinder/CLionProjects/klumpExample/error.h
 assembler.h
-/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h
+/home/jrinder/CLionProjects/klumpExample/assembler.h
 
-/home/jrinder/CLionProjects/ParserEx (copy)/scanner.cpp
+/home/jrinder/CLionProjects/klumpExample/scanner.cpp
 iostream
 -
 cctype
@@ -62,23 +62,23 @@ cctype
 cstdlib
 -
 scanner.h
-/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h
+/home/jrinder/CLionProjects/klumpExample/scanner.h
 
-/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h
+/home/jrinder/CLionProjects/klumpExample/scanner.h
 string
 -
 vector
 -
 
-/home/jrinder/CLionProjects/ParserEx (copy)/tables.cpp
+/home/jrinder/CLionProjects/klumpExample/tables.cpp
 iostream
 -
 iomanip
 -
 tables.h
-/home/jrinder/CLionProjects/ParserEx (copy)/tables.h
+/home/jrinder/CLionProjects/klumpExample/tables.h
 
-/home/jrinder/CLionProjects/ParserEx (copy)/tables.h
+/home/jrinder/CLionProjects/klumpExample/tables.h
 string
 -
 vector
