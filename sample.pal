@@ -1,0 +1,11 @@
+dcl
+  a : int;
+  b : int;
+  e : int;
+begin
+  a := 3;
+  b := 2;
+  e := (a+b)*(a);
+  writeln (a);
+  writeln (b);
+end.

@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jrinder/CLionProjects/ParserEx (copy)/assembler.cpp
+iostream
+-
+iomanip
+-
+assembler.h
+/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h
+
+/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h
+string
+-
+tables.h
+/home/jrinder/CLionProjects/ParserEx (copy)/tables.h
+
+/home/jrinder/CLionProjects/ParserEx (copy)/error.cpp
+iostream
+-
+cstdlib
+-
+vector
+-
+utility
+-
+string
+-
+error.h
+/home/jrinder/CLionProjects/ParserEx (copy)/error.h
+
+/home/jrinder/CLionProjects/ParserEx (copy)/error.h
+string
+-
+
+/home/jrinder/CLionProjects/ParserEx (copy)/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+set
+-
+scanner.h
+/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h
+error.h
+/home/jrinder/CLionProjects/ParserEx (copy)/error.h
+assembler.h
+/home/jrinder/CLionProjects/ParserEx (copy)/assembler.h
+
+/home/jrinder/CLionProjects/ParserEx (copy)/scanner.cpp
+iostream
+-
+cctype
+-
+cstdlib
+-
+scanner.h
+/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h
+
+/home/jrinder/CLionProjects/ParserEx (copy)/scanner.h
+string
+-
+vector
+-
+
+/home/jrinder/CLionProjects/ParserEx (copy)/tables.cpp
+iostream
+-
+iomanip
+-
+tables.h
+/home/jrinder/CLionProjects/ParserEx (copy)/tables.h
+
+/home/jrinder/CLionProjects/ParserEx (copy)/tables.h
+string
+-
+vector
+-
+stack
+-
+utility
+-
+
